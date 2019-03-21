@@ -11,3 +11,5 @@
 
 ###### Data Types, Constants and Variables.
 ###### Programmatically updated dice image view.
+
+! [alt text] (https://github.com/dilloncain/Dicee_Roll/blob/master/example.gif)
