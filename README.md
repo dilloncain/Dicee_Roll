@@ -9,5 +9,5 @@
 * Roll button provided in addition if shaking is undesired.
 * Constraints added to allow multi device use.
 
-[^1]: Data Types, Constants and Variables.
-[^1]: Programmatically updated dice image view.
+###### Data Types, Constants and Variables.
+###### Programmatically updated dice image view.
